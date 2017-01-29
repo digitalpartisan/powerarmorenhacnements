@@ -1,0 +1,19 @@
+Power Armor Enhancements (PAE) allows the player to make a number of modifications to their power armor I felt were missing from the base game.  PAE requires no official DLC plugins, but is compatible with all of them thanks to Inject-Tec http://www.nexusmods.com/fallout4/mods/21530/?.  PAE will never conflict with any mod also thanks to Inject-Tec http://www.nexusmods.com/fallout4/mods/21530/?.
+
+Features:
+Augment all arm and torso pieces with pockets, increasing carry weight
+Augment all leg pieces, increasing movement speed
+Multiple ranks of most mods, allowing lower level characters access to PAE features
+Unique mods for each of the non-raider armors intended to match the theme of the implied main story faction association of that armor set
+All PAE mods added to the Atom Cats Power Armor vendor
+Balanced material and perk requirements for each of PAE's mod options
+
+The carry weight and movement speed mods have two ranks available.  For purposes of the vendor leveled lists, the first ranks of these mods are considered basic and the second ranks are considered rare.  The sets-specific pieces are considered unique as far as the vendor is concerned.  No quest-completion or faction association requirements have been placed on the set-specific pieces.
+
+Set-specific pieces:
+T-45 (Minutemen) Arms can be modified to increase reload speed
+T-51 (Railroad) Legs can be modified to decrease detection chance
+T-60 (BoS) Torso can be modified to increase physical, radiation, and energy resistance
+X-01 (Institute) Helmet can be modified to increase damage with laser and plasma weapons
+
+PAE has been cleaned with FO4Edit http://www.nexusmods.com/fallout4/mods/2737/?.
