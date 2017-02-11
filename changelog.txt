@@ -1,2 +1,6 @@
-1.0.0
+v1.0.1
+Removed initialization message which was left over from development
+Integrated Inject-Tec v1.1.0
+
+v1.0.0
 Initial release
