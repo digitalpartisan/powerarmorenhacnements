@@ -53,6 +53,7 @@ EndFunction
 Bool Function installBehavior()
 	if (PAEInitQuest.IsRunning() || PAEInitQuest.IsStarting())
 		PAEInitQuest.Stop() ; this record is legacy and needs to go away
+		handleInjection(PAEVendorInjections, false) ; older vendor injections are invalid now and need reverted in order to reapply them with newer, better vendor contents
 	endif
 	
 	handleInjections()

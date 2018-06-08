@@ -3,6 +3,8 @@ Integrated Inject-Tec v1.5.0
 Integrated Chronicle v1.0.0
 Implemented repair kit pieces
 Implemented lightweight and heavyweight mods
+Made all non-unique mods truly generic to all Power Armor sets
+Overhauled modifications to the Power Armor vendor's shop contents
 
 v1.1.0
 Incorporated Inject-Tec v1.3.0
