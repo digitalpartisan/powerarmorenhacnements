@@ -25,8 +25,7 @@ Repair kits:
 •	All Power Armor pieces in a set (excepting the Torso) require the same components to repair which means there are generic piece and torso kits for each armor set
 •	There are also All-in-One packages of all the kits required to repair an entire set of Power Armor which can be dropped and unpacked to produce five of the generic kits and one torso kit for that armor set
 •	Both the part and AiO kits can be crafted at the Armorsmith Workbench provided by AWKCR
-•	Appear in the Junk inventory tab because they scrap down to the components required to repair the armor piece they correspond to
-•	Be careful not to scrap them until you’re ready and consider storing them in their All-in-One forms or else having a companion carry them
+•	Appear in the Junk inventory tab because they scrap down to the components required to repair the armor piece they correspond to, so considering given them to a companion or Dogmeat to carry
 •	Are useful for longer excursions along with the light material options to make carrying spare Power Armor parts and repairing in the field more viable
 •	Individual part kits have a weight and sell value benefit over the amount of scrap they break down in to and the AiO kits have the same benefits over the individual part kits.
 
