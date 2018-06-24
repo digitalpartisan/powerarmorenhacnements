@@ -3,18 +3,21 @@ Power Armor Enhancements (PAE) allows the player to make several modifications t
 Features:
 •	Augment all arm and torso pieces with pockets, increasing carry weight
 •	Augment all leg pieces, increasing movement speed
+•	Augment all armor pieces, decreasing armor piece weight
+•	Augment all armor pieces, increasing maximum armor piece health
 •	Multiple ranks of most mods, allowing lower level characters access to PAE features
 •	Unique set-specific mods for non-raider armors matching the theme of the implied main story faction association of that armor set
 •	Balanced material and perk requirements for each of PAE's mod options
 •	Power Armor Repair kits for both individual parts and entire suits
-•	All non-unique mods are truly generic and will work on any Power Armor parts from any plugin (provided they have the correct mod attachment points)
-•	All mods and repair parts have been added to the Atom Cats Power Armor vendor
+•	All mods and repair kits have been added to the Atom Cats Power Armor vendor
 
-As of v1.2.0, the non-unique mods already attached to Power Armor pieces will remain in effect but are no longer craftable due to how they were made truly generic.  Conversely, if removed, the resulting loose mod can be applied to any Power Armor piece regardless of the armor set it belongs to.
-Generic mods:
+Version 1.3.0 reverts to pre-1.2.0 armor set-specific mods rather than continuing with the attempt to make generic mods truly generic.  Apologies for the trouble this may cause some users, but unknown bugs in the Creation Kit / game engine have come to light and the continued use of truly set-agnostic Power Armor mods isn't feasible.  Because of this unfortunate return to set-specific mods, each mod's details have been slightly altered on a per-set basis to be ever so slightly more expensive and better than each lower-level suit.
+
+All-set mods:
 •	Leg pieces for faster movement speed
 •	Arm and chest pieces for increased carry weight
 •	Light and Heavy materials for every piece which can make having a primary and a backup set of armor more viable for longer excursions.
+
 Set-specific mods:
 •	T-45 (Minutemen) Arms can be modified to increase reload speed
 •	T-51 (Railroad) Legs can be modified to decrease detection chance
