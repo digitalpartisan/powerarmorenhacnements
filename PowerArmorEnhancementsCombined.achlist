@@ -78,5 +78,6 @@
 	"Data\\Scripts\\PAE\\ContainerReset.pex",
 	"Data\\Scripts\\PAE\\CorePackageBehaviors.pex",
 	"Data\\Scripts\\PAE\\init.pex",
+	"Data\\Scripts\\PAE\\PlayerAliasRepair.pex",
 	"Data\\Scripts\\PAE\\RepairKit.pex"
 ]

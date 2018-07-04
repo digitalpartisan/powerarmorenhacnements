@@ -1,7 +1,7 @@
 v1.3.0
 Fixed a bug causing the Chronicle package management system to not receive game load events
 Reversed the mod generalization from the v1.2.0 update due to bugs in FO4's craftin system making them unsustainable
-
+Updated similar mods to be ever so slightly different based on what suit of Power Armor they modify
 
 v1.2.0
 Integrated Inject-Tec v1.5.0
