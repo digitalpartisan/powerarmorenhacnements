@@ -1,3 +1,3 @@
-Loggout v1.0.0
-Inject-Tec v1.5.0
-Chronicle v1.0.0
+Loggout v1.1.0
+Inject-Tec v1.6.0
+Chronicle v1.1.0
