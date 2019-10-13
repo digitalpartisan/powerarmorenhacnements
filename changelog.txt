@@ -1,5 +1,6 @@
 v1.5.0
 Switched to Jiffy to simplify library dependencies
+Expanded effects of light & heavy modifications to include resistances
 
 v1.4.0
 Integrated Loggout v1.1.0
